@@ -1,0 +1,30 @@
+
+.App {
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(160, 66, 66);
+  padding-left: 0px;
+  margin: 70px;
+  margin-top: 20px;
+}
+.button {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  
+}
+.button button {
+  background-color:skyblue;
+  border: none;
+  outline: none;
+  border: 2px solid red;
+ 
+}
